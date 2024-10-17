@@ -1,7 +1,3 @@
-# Ide Aplikasi Startup
-
-Selamat datang di **Startup App Ideas**! Repository ini didedikasikan untuk berbagi ide-ide aplikasi startup yang inovatif. Kami mengundang kontribusi dari komunitas untuk menambahkan ide aplikasi baru atau memberikan saran untuk pengembangan lebih lanjut.
-
 ## Kontribusi
 Kami terbuka untuk semua orang yang ingin berkontribusi. Berikut adalah langkah-langkah untuk berkontribusi:
 
@@ -14,9 +10,3 @@ Kami terbuka untuk semua orang yang ingin berkontribusi. Berikut adalah langkah-
 7. Buat pull request dari branch Anda ke repository utama.
 
 Kami juga menerima saran untuk pengembangan ide yang sudah ada!
-
-## Lisensi
-Proyek ini menggunakan lisensi MIT, yang berarti Anda bebas menggunakan ide-ide ini untuk proyek pribadi atau komersial.
-
-
-
