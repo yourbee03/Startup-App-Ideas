@@ -4,20 +4,13 @@ Kumpulan ide aplikasi startup yang dapat membantu pengembang dan entrepreneur da
 
 ## Tabel Isi
 
-- [Ide Aplikasi](#[ide-aplikasi](https://github.com/yourbee03/Startup-App-Ideas/blob/main/app-ide/HOW-TO.md))
+- [Ide Aplikasi](#ide-aplikasi)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 
 ## Ide Aplikasi
 
-1. **Aplikasi Manajemen Proyek**
-   - Deskripsi: Aplikasi untuk mengelola proyek, tugas, dan kolaborasi tim.
-   
-2. **Aplikasi Pembelajaran Daring**
-   - Deskripsi: Platform untuk belajar secara online dengan berbagai kursus dan materi.
-   
-3. **Aplikasi Kesehatan Mental**
-   - Deskripsi: Aplikasi untuk membantu pengguna mengelola kesehatan mental mereka dengan meditasi dan saran.
+Silakan buka [HOW TO](https://github.com/yourbee03/Startup-App-Ideas/blob/main/app-ide/HOW-TO.md) untuk petunjuk lebih lanjut tentang cara menyumbangkan ide aplikasi.
 
 ## Kontribusi
 
