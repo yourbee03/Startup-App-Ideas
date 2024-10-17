@@ -2,7 +2,7 @@
 Kami terbuka untuk semua orang yang ingin berkontribusi. Berikut adalah langkah-langkah untuk berkontribusi:
 
 1. Fork repository ini.
-2. Clone hasil fork ke komputer lokal Anda: "git clone https://github.com/username/startup-app-ideas.git"
+2. Clone hasil fork ke komputer lokal Anda: "git clone https://github.com/username/Startup-App-Ideas"
 3. Buat branch baru untuk perubahan Anda:
 4. Lakukan perubahan atau tambahkan ide aplikasi.
 5. Commit perubahan Anda:"git commit -m "Menambahkan ide aplikasi: [Judul Ide]"
