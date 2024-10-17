@@ -1,22 +1,34 @@
-# Ide Aplikasi Startup
+# Startup App Ideas
 
-Selamat datang di **Startup App Ideas**! Repository ini didedikasikan untuk berbagi ide-ide aplikasi startup yang inovatif. Kami mengundang kontribusi dari komunitas untuk menambahkan ide aplikasi baru atau memberikan saran untuk pengembangan lebih lanjut.
+Kumpulan ide aplikasi startup yang dapat membantu pengembang dan entrepreneur dalam menciptakan produk baru.
+
+## Tabel Isi
+
+- [Ide Aplikasi](#ide-aplikasi)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
+
+## Ide Aplikasi
+
+1. **Aplikasi Manajemen Proyek**
+   - Deskripsi: Aplikasi untuk mengelola proyek, tugas, dan kolaborasi tim.
+   
+2. **Aplikasi Pembelajaran Daring**
+   - Deskripsi: Platform untuk belajar secara online dengan berbagai kursus dan materi.
+   
+3. **Aplikasi Kesehatan Mental**
+   - Deskripsi: Aplikasi untuk membantu pengguna mengelola kesehatan mental mereka dengan meditasi dan saran.
 
 ## Kontribusi
-Kami terbuka untuk semua orang yang ingin berkontribusi. Berikut adalah langkah-langkah untuk berkontribusi:
 
-1. Fork repository ini.
-2. Clone hasil fork ke komputer lokal Anda: "git clone https://github.com/username/startup-app-ideas.git"
-3. Buat branch baru untuk perubahan Anda:
-4. Lakukan perubahan atau tambahkan ide aplikasi.
-5. Commit perubahan Anda:"git commit -m "Menambahkan ide aplikasi: [Judul Ide]"
-6. Push branch Anda: "git push origin nama-branch"
-7. Buat pull request dari branch Anda ke repository utama.
+Jika kamu ingin berkontribusi, silakan ikuti langkah-langkah berikut:
 
-Kami juga menerima saran untuk pengembangan ide yang sudah ada!
+1. Fork repositori ini.
+2. Buat cabang fitur (`git checkout -b feature/your-feature`).
+3. Lakukan perubahan dan commit (`git commit -m 'Add some feature'`).
+4. Push ke cabang (`git push origin feature/your-feature`).
+5. Buat Pull Request.
 
 ## Lisensi
-Proyek ini menggunakan lisensi MIT, yang berarti Anda bebas menggunakan ide-ide ini untuk proyek pribadi atau komersial.
 
-
-
+MIT License. Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
