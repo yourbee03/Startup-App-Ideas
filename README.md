@@ -4,7 +4,7 @@ Kumpulan ide aplikasi startup yang dapat membantu pengembang dan entrepreneur da
 
 ## Tabel Isi
 
-- [Ide Aplikasi](#ide-aplikasi)
+- [Ide Aplikasi](#[ide-aplikasi](https://github.com/yourbee03/Startup-App-Ideas/blob/main/app-ide/HOW-TO.md))
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 
