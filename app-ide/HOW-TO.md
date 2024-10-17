@@ -4,3 +4,5 @@
 2. ### Deskripsi
 3. ### Fitur
 4. ### Teknologi
+   
+#### NOTE : Jika Tidak Sesuai Kami Berhak Mengambil Tindakan Sepihak
